@@ -53,3 +53,13 @@ nav a:hover {
     color: var(--accent);
     text-decoration: underline;
 }
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+    line-height: 1.6;
+}
+
+section h2 {
+    margin-bottom: 12px;
+}
